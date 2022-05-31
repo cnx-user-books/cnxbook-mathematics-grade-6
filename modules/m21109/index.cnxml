@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To investigate and approximate</title>
+  <metadata>
+  <md:content-id>m21109</md:content-id><md:title>To investigate and approximate</md:title>
+  <md:abstract/>
+  <md:uuid>c9584296-1ffe-4cde-b218-d19e25f43731</md:uuid>
+</metadata>
+
+<content>
+    <section id="id13350447">
+      <title>MATHEMATICS</title>
+      <para id="para-id13350447">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13379921">
+      <title>Measurement and Time</title>
+      <para id="para-id13379921">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12788931">
+      <title>Length</title>
+      <para id="para-id12788931">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13344797">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id13344797">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8544911">
+      <title>Memorandum</title>
+      <para id="para-id8544911">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6345221">
+      <title>LEANER SECTION</title>
+      <para id="para-id6345221">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8611690">
+      <title>Content</title>
+      <section id="id5285775">
+        <title>ACTIVITY: To solve problems in context [LO 1.6.2]</title>
+        <para id="id12927264">1. Your educator will provide the required paper. Examine the diagram below and copy it exactly. Try to construct your own cube from this.</para>
+        <figure id="id4675160">
+          <media id="id4675160_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-79f7.png" id="id4675160__onlineimage" height="240" width="171"/>
+          </media>
+        </figure>
+        <figure id="id3719085">
+          <media id="id3719085_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-4102.png" id="id3719085__onlineimage" height="113" width="131"/>
+          </media>
+        </figure>
+        <list id="id11459327" list-type="bulleted">
+          <item>You now have a container with the following measurements:</item>
+        </list>
+        <para id="id12870381">1 cm by 1 cm by 1 cm</para>
+        <list id="id6392754" list-type="bulleted">
+          <item>We therefore say that the volume of the container is:</item>
+        </list>
+        <para id="id4616624">1 cm × 1 cm × 1 cm = 1 cm3</para>
+        <para id="id8618886">(one cubic centimetre)</para>
+        <para id="id4333808">volume = length × width × height</para>
+        <para id="id3559108">2. How many of these boxes (of 1 cm<sup>3</sup>) will you need to build a cube of 8 cm<sup>3</sup>? (2 cm × 2 cm × 2 cm)</para>
+        <figure id="id12841559">
+          <media id="id12841559_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-b447.png" id="id12841559__onlineimage" height="125" width="129"/>
+          </media>
+        </figure>
+        <para id="id8488464">2.1 8 cm3 = (2 cm × 2 cm × 2 cm): ___________________  cubes</para>
+        <para id="id9008750">2.2 27 cm3 = (3 cm × 3 cm × 3 cm): __________________  cubes</para>
+        <para id="id4328961">2.3 64 cm3 = (4 cm × 4 cm × 4 cm): __________________  cubes</para>
+        <para id="id3528588">2.4 125 cm3 = (5 cm × 5 cm × 5 cm): _________________  cubes</para>
+      </section>
+    </section>
+    <section id="id13109956">
+      <title>Assessment</title>
+      <para id="id13172304"><emphasis><emphasis effect="italics">Learning Outcome 4:</emphasis></emphasis>The learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</para>
+      <para id="id12910365"><emphasis><emphasis effect="italics">Assessment Standard 4.8:</emphasis></emphasis> We know this when the learner investigates and approximates (alone and/or as a member of a group or team):</para>
+      <para id="id13472868">4.8.3: volume/capacity of objects (by packing or filling them) in order to develop rules for calculating volume of rectangular prisms.</para>
+    </section>
+  </content>
+</document>

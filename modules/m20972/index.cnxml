@@ -1,0 +1,130 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To perform mental calculations</title>
+  <metadata>
+  <md:content-id>m20972</md:content-id><md:title>To perform mental calculations</md:title>
+  <md:abstract/>
+  <md:uuid>16425bd1-dbe3-49f8-9e2a-f236c1b141f8</md:uuid>
+</metadata>
+
+<content>
+    <section id="id25657382">
+      <title>MATHEMATICS</title>
+      <para id="para-id25657382">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id26396877">
+      <title>Multiplication</title>
+      <para id="para-id26396877">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id26396500">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id26396500">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id24277924">
+      <title>Memorandum</title>
+      <para id="id26601628">1.1  6   </para>
+      <para id="id16836583">1.2  96   </para>
+      <para id="id26998994">1.3 150   </para>
+      <para id="id3754999">1.4 500   </para>
+      <para id="id21101580">1.5  12   </para>
+      <para id="id25696992">1.6  42   </para>
+      <para id="id15948664">1.7  5   </para>
+      <para id="id5871228">1.8 1 000 000</para>
+      <para id="id25498704">1.9  9 900</para>
+      <para id="id26396525">1.10 63 000</para>
+      <para id="id27558647">1.11  524</para>
+      <para id="id11087737">1.12  66</para>
+      <para id="id28303069">1.13  100</para>
+      <para id="id25567200">1.14  578</para>
+      <para id="id26400126">1.15 768½ / 768,5</para>
+    </section>
+    <section id="id16396611">
+      <title>LEANER SECTION</title>
+      <para id="para-id16396611">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id24447227">
+      <title>Content</title>
+      <section id="id5920896">
+        <title>Activity: To perform mental calculations [LO 1.9.2]</title>
+        <para id="id20779423"/>
+        <para id="id28421514">If you have attended well during the previous activities, the following mental calculation test should be child's play! Let us see how well you manage.</para>
+        <para id="id27800623">1. Complete the following:</para>
+        <para id="id24442712"/>
+        <para id="id26184187">1.1 ____________________ x 9 = 54 </para>
+        <para id="id26568272">1.2 ____________________ ÷ 8 = 12 </para>
+        <para id="id26398964">1.3 6 x 25 = ____________________</para>
+        <para id="id16227937">1.4 4 x 125 = ____________________</para>
+        <para id="id24540241">1.5 6 x ____________________ = 72 </para>
+        <para id="id29070501">1.5 ____________________ ÷ 6 = 7 </para>
+        <para id="id24347272">1.6 45 ÷ ____________________ = 9 </para>
+        <para id="id28381982">1.7 106 = ____________________ </para>
+        <para id="id26629251">1.8 104 - 102 = ____________________</para>
+        <para id="id24443168">1.9 63 x 103 = ____________________</para>
+        <para id="id25802628">1.10 (5 x 102) + (6 x 4) = ____________________</para>
+        <para id="id26882067">1.11 (13 x 6) – (4 x 3) = ____________________</para>
+        <para id="id24390056">1.12 105 ÷ 103 = ____________________</para>
+        <para id="id5285112">1.13 Double: 289: ____________________</para>
+        <para id="id24252775">1.14 Halve: 1 537: ____________________</para>
+        <list id="id19880830" list-type="bulleted">
+          <item>Colour in the applicable block:</item>
+        </list>
+        <table id="id5774040" summary="">
+          <tgroup cols="17">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <colspec colnum="13" colname="c13"/>
+            <colspec colnum="14" colname="c14"/>
+            <colspec colnum="15" colname="c15"/>
+            <colspec colnum="16" colname="c16"/>
+            <colspec colnum="17" colname="c17"/>
+            <tbody>
+              <row>
+                <entry>I had</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry>5</entry>
+                <entry>6</entry>
+                <entry>7</entry>
+                <entry>8</entry>
+                <entry>9</entry>
+                <entry>10</entry>
+                <entry>11</entry>
+                <entry>12</entry>
+                <entry>13</entry>
+                <entry>14</entry>
+                <entry>15</entry>
+                <entry>correct!</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id19024900">
+      <title>Assessment</title>
+      <para id="id24977977"><emphasis effect="bold">Learning Outcome 1:</emphasis> The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id26397687"><emphasis effect="bold">Assessment Standard 1.9:</emphasis> We know this when the learner performs mental calculations involving:</para>
+      <para id="id28321177"><emphasis effect="bold">1.9.2:</emphasis> multiplication of whole numbers to at least 12 x 12.</para>
+      <para id="id3400567"/>
+    </section>
+  </content>
+</document>

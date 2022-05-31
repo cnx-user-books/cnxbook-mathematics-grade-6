@@ -1,0 +1,94 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To determine the equivalence and validity of a variety of representations</title>
+  <metadata>
+  <md:content-id>m20991</md:content-id><md:title>To determine the equivalence and validity of a variety of representations</md:title>
+  <md:abstract/>
+  <md:uuid>7f7fc7d0-68fd-486a-81cc-9ce0a4cf8b2a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id15044354">
+      <title>MATHEMATICS</title>
+      <para id="para-id15044354">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16158200">
+      <title>Division</title>
+      <para id="para-id16158200">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4321949">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id4321949">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id15416658">
+      <title>Memorandum</title>
+      <para id="para-id15416658">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14947110">
+      <title>LEANER SECTION</title>
+      <para id="para-id14947110">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16902182">
+      <title>Content</title>
+      <section id="id4891263">
+        <title>Activity: To determine the equivalence and validity of a variety of representations [LO 2.6.3]</title>
+        <para id="para-id4891263">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id20605448">
+        <title>To use a variety of strategies to check solutions [LO 1.11]</title>
+        <para id="id6867603"/>
+        <para id="id20480687">Activity 2.7 has shown that there are different methods for calculating a quotient. Work through the different solutions to the following problem (with a partner):</para>
+        <para id="id16996226">How many people together would have the same amount of teeth as one of these dinosaurs?</para>
+        <para id="id15205648">1. I must divide 2 400 by 28.</para>
+        <para id="id5755299">I estimate 28 goes into 2 400 </para>
+        <para id="id5078186">about 50 times.</para>
+        <para id="id18261007">I know 28 x 100 = 2 800</para>
+        <para id="id17951673">Thus: 28 x 50 = 1 400</para>
+        <para id="id11961431">And 28 x 25 = 700</para>
+        <figure id="id11654800">
+          <media id="id11654800_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-7fa4.png" id="id11654800__onlineimage" height="166" width="179"/>
+          </media>
+        </figure>
+        <para id="id11415021">The answer is thus 50 + 25 + 10 = 85 people. 20 teeth are left over.</para>
+        <para id="id4438418">2. I must calculate 2 400 ÷ 28 in this way:</para>
+        <figure id="id12250162">
+          <media id="id12250162_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-d772.png" id="id12250162__onlineimage" height="154" width="183"/>
+          </media>
+        </figure>
+        <para id="id7307323"/>
+        <para id="id15638784">There are thus 85 people, because there are 8 teeth too few for another person.</para>
+        <para id="id3598528">3. Can you solve the problem in any other way without using a calculator?</para>
+        <para id="id20507331">_____________________________________________________________________</para>
+        <para id="id12705772">_____________________________________________________________________</para>
+        <para id="id10878691">_____________________________________________________________________</para>
+        <para id="id8995414">_____________________________________________________________________</para>
+        <para id="id19319562">_____________________________________________________________________</para>
+        <para id="id4763623">_____________________________________________________________________</para>
+      </section>
+    </section>
+    <section id="id20486923">
+      <title>Assessment</title>
+      <para id="id7521227"><emphasis effect="bold">Learning Outcome 2:</emphasis> The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id12133880"><emphasis effect="bold">Assessment Standard 2.6:</emphasis> We know this when the learner determines, through discussion and comparison, the equivalence of different descriptions of the same relationship or rule presented:</para>
+      <para id="id11469555"><emphasis effect="bold">2.6.3:</emphasis> by number sentences.</para>
+    </section>
+    <section id="id14200882">
+      <title>Assessment</title>
+      <para id="id11341871"><emphasis effect="bold">Learning Outcome 1:</emphasis> The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id5814711"><emphasis effect="bold">Assessment Standard 1.11:</emphasis> We know this when the learner uses a range of strategies to check solutions and judge the reasonableness of solutions.</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,140 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To perform mental calculations</title>
+  <metadata>
+  <md:content-id>m20005</md:content-id><md:title>To perform mental calculations</md:title>
+  <md:abstract/>
+  <md:uuid>136c1efe-9ed0-490d-b36b-c70268ab2f8a</md:uuid>
+</metadata>
+
+<content>
+    <section id="id14351059">
+      <title>MATHEMATICS</title>
+      <para id="para-id14351059">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10487788">
+      <title>Number Concept</title>
+      <para id="para-id10487788">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4524011">
+      <title/>
+      <para id="para-id4524011">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10479695">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id10479695">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14389434">
+      <title>Memorandum</title>
+      <list id="id5020072" list-type="bulleted">
+        <item>203; 190; 173; 208; 236; 222; 253; 471; 570; 459; 423; 472; 430; 343; 453; 357; 315</item>
+      </list>
+      <para id="id5897463">1 000 000</para>
+    </section>
+    <section id="id10251088">
+      <title>LEANER SECTION</title>
+      <section id="id10503619">
+        <title>Content</title>
+        <para id="para-id10503619">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id3309818">
+        <title>ACTIVITY: To perform mental calculations [LO 1.8.2]</title>
+        <para id="para-id3309818">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id9288925">
+        <title>COMPETITION TIME!</title>
+        <list id="id14878710" list-type="bulleted">
+          <item>Compete with a friend to see who can complete this arrow diagram CORRECTLY first! You may not use a pocket calculator.</item>
+        </list>
+        <figure id="id5917302">
+          <media id="id5917302_media" alt="">
+            <image mime-type="image/png" src="../../media/Maths_Gr_6_m_6_aktw_7.png" id="id5917302__onlineimage" height="380" width="633"/>
+          </media>
+        </figure>
+        <section id="id4436321">
+          <title>THE REMARKABLE MILLION!</title>
+          <para id="id12064337">You already know the following:</para>
+          <para id="id12064341">10 x 10 = 100</para>
+          <para id="id11694405">100 x 10 = 1 000</para>
+          <para id="id8209535">1 000 x 10 = 10 000</para>
+          <para id="id5123207">10 000 x 10 = 100 000</para>
+          <para id="id13943534">Look carefully at the above pattern and fill in:</para>
+          <para id="id5101504">100 000 x 10 = ______________________________________________________</para>
+          <para id="id5181622"><emphasis effect="bold">Correct!</emphasis> 100 000 x 10 = 1 000 000</para>
+          <para id="id3752643">We read: 1 000 000 is one million</para>
+          <list id="id11803606" list-type="bulleted">
+            <item>In the notation column it looks like this:</item>
+          </list>
+          <table id="id6837602" summary="">
+            <tgroup cols="7">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <tbody>
+                <row>
+                  <entry>Million</entry>
+                  <entry>Hundred thousand</entry>
+                  <entry>Ten thousand</entry>
+                  <entry>Thousand</entry>
+                  <entry>Hundred</entry>
+                  <entry>Ten</entry>
+                  <entry>One</entry>
+                </row>
+                <row>
+                  <entry>M</entry>
+                  <entry>HTh</entry>
+                  <entry>TTh</entry>
+                  <entry>Th</entry>
+                  <entry>H</entry>
+                  <entry>T</entry>
+                  <entry>U</entry>
+                </row>
+                <row>
+                  <entry>1 000 000</entry>
+                  <entry>100 000</entry>
+                  <entry>10 000</entry>
+                  <entry>1 000</entry>
+                  <entry>100</entry>
+                  <entry>10</entry>
+                  <entry>1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <list id="id15857476" list-type="bulleted">
+            <item>Let’s read these big numbers:</item>
+          </list>
+          <para id="id7014316">4 721 568 is read as 4 million 721 thousand 568</para>
+          <para id="id7014322">Thus: Four million seven hundred and twenty one thousand five hundred and sixty eight</para>
+        </section>
+        <section id="id10499833">
+          <title>NOTE!</title>
+          <para id="id4396510">We group figures (digits) in threes from the right. </para>
+          <para id="id11688066">In the example the first space from the left tells us how many millions we have. The second space from the left indicates how many thousands there are.</para>
+          <para id="id3311076">E.g. 3 (million) 268 (thousand) 413</para>
+        </section>
+      </section>
+    </section>
+    <section id="id10001775">
+      <title>Assessment</title>
+      <para id="id11508497"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id9961131"><emphasis><emphasis effect="italics">Assessment Standard 1.9:</emphasis></emphasis> We know this when the learner performs mental calculations involving:</para>
+      <para id="id4148215"><emphasis effect="bold">1.9.1: </emphasis>addition and subtraction.</para>
+    </section>
+  </content>
+</document>

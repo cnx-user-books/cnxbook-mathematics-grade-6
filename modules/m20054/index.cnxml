@@ -1,0 +1,446 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To determine the equivalence and validity of different representations</title>
+  <metadata>
+  <md:content-id>m20054</md:content-id><md:title>To determine the equivalence and validity of different representations</md:title>
+  <md:abstract/>
+  <md:uuid>b98408a4-0fc9-4608-899d-68a9c34ac0ad</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7522083">
+      <title>MATHEMATICS</title>
+      <para id="para-id7522083">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id9401453">
+      <title>Number Concept</title>
+      <para id="para-id9401453">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12867526">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id12867526">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11077402">
+      <title>Memorandum</title>
+      <para id="id9731629">2. Learner’s own method </para>
+      <para id="id9588006">3.1 9 080 717</para>
+      <para id="id11035035">3.2 8 301 883</para>
+      <list id="id3788598" list-type="bulleted">
+        <item>6 485 185</item>
+      </list>
+      <section id="id13052843">
+        <title>Brain Teaser</title>
+        <para id="id10963467">1. 4  2.  1</para>
+        <para id="id12979736"> 3    2</para>
+        <para id="id8292626"> 1    3</para>
+        <para id="id11077026">2    3</para>
+        <para id="id9444504">1   44</para>
+        <para id="id9687426">8    1</para>
+      </section>
+    </section>
+    <section id="id8107751">
+      <title>LEANER SECTION</title>
+      <section id="id13212021">
+        <title>Content</title>
+        <para id="para-id13212021">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id10449931">
+        <title>ACTIVITY: To determine the equivalence and validity of different representations [LO 2.6.3]</title>
+        <para id="para-id10449931">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id9654440">
+        <title>To use strategies to check solutions [LO 1.11]</title>
+        <para id="id10379098">1. In the previous activity you had the opportunity to use your own strategies to solve problems. From the feedback in the class you would have realised that there are many ways of adding numbers.</para>
+        <para id="id10549022">Work in pairs. Discuss the following methods of adding and explain to each other how the answers are calculated:</para>
+        <section id="id3512334">
+          <title>LET’S REVISE!</title>
+          <para id="id9656838">1.1 845 908 + 25 876 + 343 621</para>
+          <table id="id9031660" summary="">
+            <tgroup cols="12">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <colspec colnum="12" colname="c12"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry>800 000</entry>
+                  <entry>+</entry>
+                  <entry>40 000</entry>
+                  <entry>+</entry>
+                  <entry>5 000 </entry>
+                  <entry>+</entry>
+                  <entry>900</entry>
+                  <entry>+</entry>
+                  <entry>0</entry>
+                  <entry>+</entry>
+                  <entry>8</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>20 000</entry>
+                  <entry>+</entry>
+                  <entry>5 000</entry>
+                  <entry>+</entry>
+                  <entry>800</entry>
+                  <entry>+</entry>
+                  <entry>70</entry>
+                  <entry>+</entry>
+                  <entry>6</entry>
+                </row>
+                <row>
+                  <entry>+</entry>
+                  <entry>300 000</entry>
+                  <entry>+</entry>
+                  <entry>40 000</entry>
+                  <entry>+</entry>
+                  <entry>3 000</entry>
+                  <entry>+</entry>
+                  <entry>600</entry>
+                  <entry>+</entry>
+                  <entry>20</entry>
+                  <entry>+</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>1 100 000</entry>
+                  <entry>+</entry>
+                  <entry>100 000</entry>
+                  <entry>+</entry>
+                  <entry>13 000</entry>
+                  <entry>+</entry>
+                  <entry>2 300</entry>
+                  <entry>+</entry>
+                  <entry>90</entry>
+                  <entry>+</entry>
+                  <entry>15</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id9597986">= 1 000 000 + (100 000 + 100 000) + 10 000 + (3 000 + 5 000) + 300 + (90 + 10) + 5</para>
+          <para id="id3799276">= 1 215 405</para>
+          <para id="id10540764">1.2  </para>
+          <figure id="id13177961">
+            <media id="id13177961_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-1e8e.jpg" id="id13177961__onlineimage" height="164" width="350"/>
+            </media>
+          </figure>
+          <para id="id13055884">= 1 215 405</para>
+          <para id="id13093512">1.3</para>
+          <table id="id11080086" summary="">
+            <tgroup cols="8">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <tbody>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>1</entry>
+                  <entry/>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry>8</entry>
+                  <entry>4</entry>
+                  <entry>5</entry>
+                  <entry>9</entry>
+                  <entry>0</entry>
+                  <entry>8</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>2</entry>
+                  <entry>5</entry>
+                  <entry>8</entry>
+                  <entry>7</entry>
+                  <entry>6</entry>
+                </row>
+                <row>
+                  <entry>+</entry>
+                  <entry/>
+                  <entry>3</entry>
+                  <entry>4</entry>
+                  <entry>3</entry>
+                  <entry>6</entry>
+                  <entry>2</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>1</entry>
+                  <entry>5</entry>
+                  <entry>4</entry>
+                  <entry>0</entry>
+                  <entry>5</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id13099789">2. Can you show your friend any other method of calculation?</para>
+          <para id="id13157739">_____________________________________________________________________</para>
+          <para id="id11090908">_____________________________________________________________________</para>
+          <para id="id11090913">_____________________________________________________________________</para>
+          <para id="id11090409">_____________________________________________________________________</para>
+          <para id="id7499281">_____________________________________________________________________</para>
+          <para id="id10449821">_____________________________________________________________________</para>
+          <para id="id9020065"/>
+          <para id="id9020069">3. Use any method of your choice (without a calculator) and calculate the sum of:</para>
+          <para id="id8197818">3.1 4 623 577 + 1 239 246 + 3 217 894</para>
+          <para id="id13062266">_____________________________________________________________________</para>
+          <para id="id3688237">_____________________________________________________________________</para>
+          <para id="id12105970">_____________________________________________________________________</para>
+          <para id="id12809538">_____________________________________________________________________</para>
+          <para id="id12809543">_____________________________________________________________________</para>
+          <para id="id13159050">3.2 2 851 416 + 4 981 235 + 469 232</para>
+          <para id="id9410769">_____________________________________________________________________</para>
+          <para id="id12980956">_____________________________________________________________________</para>
+          <para id="id9654015">_____________________________________________________________________</para>
+          <para id="id4007532">_____________________________________________________________________</para>
+          <para id="id4007537">_____________________________________________________________________</para>
+          <para id="id10548140">3.3 2 153 892 + 264 058 + 4 067 235</para>
+          <para id="id13212198">_____________________________________________________________________</para>
+          <para id="id9716499">_____________________________________________________________________</para>
+          <para id="id12705422">_____________________________________________________________________</para>
+          <para id="id8203319">_____________________________________________________________________</para>
+          <para id="id8203324">_____________________________________________________________________</para>
+          <para id="id9569409">_____________________________________________________________________</para>
+        </section>
+        <section id="id12877225">
+          <title>BRAIN TEASERS!</title>
+          <para id="id3729419">Complete the missing numbers:</para>
+          <para id="id3729424">1. </para>
+          <table id="id9656081" summary="">
+            <tgroup cols="17">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <colspec colnum="6" colname="c6"/>
+              <colspec colnum="7" colname="c7"/>
+              <colspec colnum="8" colname="c8"/>
+              <colspec colnum="9" colname="c9"/>
+              <colspec colnum="10" colname="c10"/>
+              <colspec colnum="11" colname="c11"/>
+              <colspec colnum="12" colname="c12"/>
+              <colspec colnum="13" colname="c13"/>
+              <colspec colnum="14" colname="c14"/>
+              <colspec colnum="15" colname="c15"/>
+              <colspec colnum="16" colname="c16"/>
+              <colspec colnum="17" colname="c17"/>
+              <tbody>
+                <row>
+                  <entry>1.</entry>
+                  <entry/>
+                  <entry>2</entry>
+                  <entry>1</entry>
+                  <entry>3</entry>
+                  <entry>4</entry>
+                  <entry>1</entry>
+                  <entry>___</entry>
+                  <entry/>
+                  <entry>2.</entry>
+                  <entry/>
+                  <entry>___</entry>
+                  <entry>7</entry>
+                  <entry>9</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>8</entry>
+                  <entry>9</entry>
+                  <entry>2</entry>
+                  <entry>___</entry>
+                  <entry>7</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>4</entry>
+                  <entry>___</entry>
+                  <entry>2</entry>
+                  <entry>8</entry>
+                  <entry>1</entry>
+                  <entry>6</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry>7</entry>
+                  <entry>5</entry>
+                  <entry>___</entry>
+                  <entry>9</entry>
+                  <entry>2</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>___</entry>
+                  <entry>2</entry>
+                  <entry>3</entry>
+                  <entry>3</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry>___</entry>
+                  <entry>1</entry>
+                  <entry>4</entry>
+                  <entry>1</entry>
+                  <entry>1</entry>
+                  <entry>9</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>1</entry>
+                  <entry>0</entry>
+                  <entry>0</entry>
+                  <entry>___</entry>
+                  <entry>7</entry>
+                  <entry>1</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry>+</entry>
+                  <entry>1</entry>
+                  <entry>___</entry>
+                  <entry>9</entry>
+                  <entry>1</entry>
+                  <entry>2</entry>
+                  <entry>3</entry>
+                  <entry/>
+                  <entry/>
+                  <entry>+</entry>
+                  <entry>1</entry>
+                  <entry>4</entry>
+                  <entry>3</entry>
+                  <entry>0</entry>
+                  <entry>___</entry>
+                  <entry>___</entry>
+                </row>
+                <row>
+                  <entry/>
+                  <entry/>
+                  <entry>___</entry>
+                  <entry>1</entry>
+                  <entry>___</entry>
+                  <entry>0</entry>
+                  <entry>8</entry>
+                  <entry>5</entry>
+                  <entry/>
+                  <entry/>
+                  <entry/>
+                  <entry>9</entry>
+                  <entry>5</entry>
+                  <entry>8</entry>
+                  <entry>5</entry>
+                  <entry>8</entry>
+                  <entry>7</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </section>
+      <section id="id8194911">
+        <title>TIME FOR SELF-ASSESSMENT</title>
+        <list id="id9655169" list-type="bulleted">
+          <item>Tick the appropriate rectangle:</item>
+        </list>
+        <table id="id10414418" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Yes</entry>
+                <entry>Mostly</entry>
+                <entry>Some-times</entry>
+                <entry>No</entry>
+              </row>
+              <row>
+                <entry>I can investigate adding methods and evaluate them (determine whether they are correct). (LO 1.11 en LO 2.6)</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>I can add correctly without a calculator. (LU 1.8)</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry>*</entry>
+              </row>
+              <row>
+                <entry>I need more exercise in addition.</entry>
+                <entry>*</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id13109725">
+          <emphasis effect="italics">* </emphasis>
+          <emphasis effect="italics">Ask your educator to explain again and give you extra exercises.</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="id3632200">
+      <title>Assessment</title>
+      <para id="id9410435"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id10532386"><emphasis><emphasis effect="italics">Assessment Standard 1.11:</emphasis></emphasis> We know this when the learner uses a range of strategies to check solutions and judge the reasonableness of solutions.</para>
+      <para id="id9613536"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id14813336"><emphasis><emphasis effect="italics">Assessment Standard 2.6:</emphasis></emphasis> We know this when the learner determines, through discussion and comparison, the equivalence of different descriptions of the same relationship or rule presented:</para>
+      <para id="id9714374"><emphasis effect="bold">2.6.3:</emphasis> e.g. number sentences.</para>
+    </section>
+  </content>
+</document>

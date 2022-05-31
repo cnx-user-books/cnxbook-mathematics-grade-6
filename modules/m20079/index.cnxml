@@ -1,0 +1,161 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To determine the equivalence and validity of different methods</title>
+  <metadata>
+  <md:content-id>m20079</md:content-id><md:title>To determine the equivalence and validity of different methods</md:title>
+  <md:abstract/>
+  <md:uuid>31f545dd-49e5-4922-a4f6-fdbc134a0a92</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8922466">
+      <title>MATHEMATICS</title>
+      <para id="para-id8922466">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8970046">
+      <title>Subtraction</title>
+      <para id="para-id8970046">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12036193">
+      <title/>
+      <para id="para-id12036193">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11819911">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id11819911">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id21289274">
+      <title>Memorandum</title>
+      <para id="id19125674">1.1 378 767</para>
+      <para id="id20565224">1.2 366 269</para>
+      <para id="id15501090">1.3 613 751</para>
+    </section>
+    <section id="id23658508">
+      <title>LEANER SECTION</title>
+      <section id="id22004074">
+        <title>Content</title>
+        <section id="id7237466">
+          <title>Activity: To determine the equivalence and validity of different methods [LO 2.6.3]</title>
+          <para id="para-id7237466">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id13952140">
+          <title>To use strategies to check solutions [LO 1.11]</title>
+          <para id="id22555554"/>
+          <para id="id4184851">1. In the previous activity you saw a variety of methods to do computations. Let's have a look at further ways of finding the difference. Divide into groups of three. Read through the following problem carefully. Your educator will allocate numbers to the groups and indicate which solution each group should look at. First discuss the solution and then explain it to the rest of the class.</para>
+          <para id="id7345026">What is the subtrahend if the minuend is 631 524 and the difference is 254 637?</para>
+          <para id="id6437892">1.1 I subtract by counting backwards:</para>
+          <para id="id5180559">631 524 – 254 637</para>
+          <para id="id23209192"> 631 524 – 200 000</para>
+          <list id="id12060048" list-type="bulleted">
+            <item>431 524 – 50 000</item>
+            <item>381 524 – 4 000</item>
+            <item>77 524 – 600</item>
+            <item>376 924 – 30</item>
+            <item>376 894 - 7</item>
+          </list>
+          <para id="id15330934">= 376 887</para>
+          <para id="id14054748">The subtrahend is 376 887.</para>
+          <para id="id23065026">1.2 I use the rule of compensation for subtraction.</para>
+          <para id="id22299723">631 524 – 254 637</para>
+          <para id="id21960811">+ 363 + 363</para>
+          <list id="id3996333" list-type="bulleted">
+            <item>631 887 – 255 000</item>
+          </list>
+          <para id="id23772459">+ 5 000 + 5 000</para>
+          <list id="id18940419" list-type="bulleted">
+            <item>636 887 – 260 000</item>
+          </list>
+          <para id="id21726876">376 887</para>
+          <para id="id21901863"/>
+          <list id="id13025790" list-type="bulleted">
+            <item>I work with negative numbers and write them as follows:</item>
+          </list>
+          <para id="id3832800">
+            <table id="id23750060" summary="">
+              <tgroup cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry>631 524</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>254 637</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry>-3</entry>
+                    <entry>(4 – 7)</entry>
+                  </row>
+                  <row>
+                    <entry>-10</entry>
+                    <entry>(20 – 30)</entry>
+                  </row>
+                  <row>
+                    <entry>-100</entry>
+                    <entry>(500 – 600)</entry>
+                  </row>
+                  <row>
+                    <entry>-3 000</entry>
+                    <entry>(1 000 – 4 000)</entry>
+                  </row>
+                  <row>
+                    <entry>-20 000</entry>
+                    <entry>(30 000 – 50 000)</entry>
+                  </row>
+                  <row>
+                    <entry>400 000</entry>
+                    <entry>(600 000 – 200 000)</entry>
+                  </row>
+                  <row>
+                    <entry>376 887</entry>
+                    <entry>(400 000 – 20 000 – 3 000 – 100 – 10 – 3)</entry>
+                  </row>
+                </tbody>
+              </tgroup>
+            </table>
+          </para>
+          <para id="id4475848">1.4 This is a short method for determining the subtrahend:</para>
+          <para id="id21990895">  5 12 10 14 11 14</para>
+          <para id="id23762903">  6 3 1 5 2 4</para>
+          <para id="id21829956"> - 2 5 4 6 3 7</para>
+          <para id="id23450631">
+            <emphasis effect="bold">3 7 6 8 8 7</emphasis>
+          </para>
+          <para id="id14455654">1.5. Can your group think of another method for calculating the answer?</para>
+          <para id="id4128250">_____________________________________________________________________</para>
+          <para id="id14114660">_____________________________________________________________________</para>
+          <para id="id23440535">_____________________________________________________________________</para>
+          <para id="id23440540">_____________________________________________________________________</para>
+          <para id="id4521019">_____________________________________________________________________</para>
+          <para id="id17819686">_____________________________________________________________________</para>
+          <para id="id14484265">2. Which of these methods do YOU prefer? </para>
+          <para id="id21772332">_____________________________________________________________________</para>
+          <para id="id16633541">_____________________________________________________________________</para>
+          <para id="id22583168"> Why? </para>
+          <para id="id21302892">_____________________________________________________________________</para>
+          <para id="id4355266">_____________________________________________________________________</para>
+          <para id="id7866070">_____________________________________________________________________</para>
+          <para id="id14454028">_____________________________________________________________________</para>
+        </section>
+      </section>
+    </section>
+    <section id="id17883116">
+      <title>Assessment</title>
+      <para id="id16334852"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id23740152"><emphasis><emphasis effect="italics">Assessment Standard 1.11:</emphasis></emphasis> We know this when the learner uses a range of strategies to check solutions and judge the reasonableness of solutions.</para>
+      <para id="id23681313"><emphasis><emphasis effect="italics">Learning Outcome 2:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id23425153"><emphasis><emphasis effect="italics">Assessment Standard 2.6:</emphasis></emphasis> We know this when the learner determines, through discussion and comparison, the equivalence of different descriptions of the same relationship or rule presented:</para>
+    </section>
+  </content>
+</document>

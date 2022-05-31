@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To predict the likelihood of events in everyday life</title>
+  <metadata>
+  <md:content-id>m21844</md:content-id><md:title>To predict the likelihood of events in everyday life</md:title>
+  <md:abstract/>
+  <md:uuid>954b7b5a-2b54-454f-a9ab-0aaf4afbc7aa</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8602606">
+      <title>MATHEMATICS</title>
+      <para id="para-id8602606">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11264170">
+      <title>Probability</title>
+      <para id="para-id11264170">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8409100">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id8409100">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3780859">
+      <title>Memorandum</title>
+      <para id="id12071547">1.</para>
+      <para id="id12071550">1.1 Possible</para>
+      <para id="id9066596">1.2 Possible</para>
+      <para id="id4069590">1.3 Certain</para>
+      <para id="id3802450">1.4 Possible</para>
+      <para id="id9259328">1.5 Impossible</para>
+      <para id="id3540788">1.6 Possible</para>
+      <para id="id11449276">1.7 Impossible</para>
+      <para id="id4182055">1.8 Impossible</para>
+      <para id="id10625228">1.9 Certain</para>
+      <para id="id4281065">1.10 Possible</para>
+    </section>
+    <section id="id8178143">
+      <title>LEANER SECTION</title>
+      <para id="para-id8178143">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11958449">
+      <title>Content</title>
+      <section id="id10545655">
+        <title>ACTIVITY: To predict the likelihood of events in everyday life [LO 5.8]</title>
+        <para id="id6959199">1. Work with a friend. Decide whether the following is certain, possible or impossible.  Put a tick in the appropriate column:</para>
+        <table id="id12097681" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>Certain</entry>
+                <entry>Possible</entry>
+                <entry>Impossible</entry>
+              </row>
+              <row>
+                <entry>1.1</entry>
+                <entry>It will rain on Wednesday.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.2</entry>
+                <entry>If you throw a die, it will land on 3.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.3</entry>
+                <entry>Sunday comes before Monday.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.4</entry>
+                <entry>The netball team will win their game.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.5</entry>
+                <entry>You can fly from Durban to Cape Town in 15 minutes.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.6</entry>
+                <entry>I will get full marks for my next test.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.7</entry>
+                <entry>There will be no school holidays next year.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.8</entry>
+                <entry>I will turn 10 on my next birthday.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.9</entry>
+                <entry>Thursday comes before Wednesday.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1.10</entry>
+                <entry>I am going to win R1 000.00.</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id11052196">DID YOU KNOW?</para>
+        <para id="id10427329">4 You were actually estimating the probability of things happening or not. We can link numbers to the estimations.</para>
+        <para id="id7052395">A probability of one means that the event will definitely take place.</para>
+        <para id="id6015116">A probability of nought means that the event will definitely not take place.</para>
+        <para id="id6519170">We can determine the probability of something taking place as follows:</para>
+        <para id="id8450071">The number of times that the event can take place</para>
+        <para id="id8450074">Total number of possibilities</para>
+        <para id="id3464442">The probability of taking a red ball out of a container holding 2 red and 3 blue balls </para>
+        <para id="id11371498">therefore is:</para>
+        <para id="id11371502">(there are 2 red balls)</para>
+        <para id="id11924061">(there are 5 balls altogether)</para>
+      </section>
+    </section>
+    <section id="id3535108">
+      <title>Assessment</title>
+      <para id="id7832957"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id12269924"><emphasis><emphasis effect="italics">Assessment Standard 5.8:</emphasis></emphasis> We know this when the learner predicts the likelihood of events in daily life based on observation, and places them on a scale from 'impossible' to 'certain'.</para>
+    </section>
+  </content>
+</document>

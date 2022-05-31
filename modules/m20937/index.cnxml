@@ -1,0 +1,267 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To determine output values for given input values</title>
+  <metadata>
+  <md:content-id>m20937</md:content-id><md:title>To determine output values for given input values</md:title>
+  <md:abstract/>
+  <md:uuid>12e90139-aa77-4f32-97ba-34635515eea1</md:uuid>
+</metadata>
+
+<content>
+    <section id="id13073936">
+      <title>MATHEMATICS</title>
+      <para id="para-id13073936">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id13794048">
+      <title>Multiplication</title>
+      <para id="para-id13794048">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id12843681">
+      <title>EDUCATOR SECTION</title>
+      <para id="id12843688">Memorandum</para>
+      <table id="id11550613" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>1.1</entry>
+              <entry>7</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>700</entry>
+            </row>
+            <row>
+              <entrytbl namest="c1" nameend="c3" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                    <entry>32</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>236</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>986</entry>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>
+                <emphasis effect="bold">×</emphasis>
+                <emphasis effect="bold"> 10</emphasis>
+                <emphasis effect="bold">2</emphasis>
+              </entry>
+              <entrytbl namest="c5" nameend="c6" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                    <entry>3 200</entry>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>98 600</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry/>
+              <entry>4614</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>461 400</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id13086507" summary="">
+        <tgroup cols="6">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry>1.2</entry>
+              <entry>6</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>6 000</entry>
+            </row>
+            <row>
+              <entrytbl namest="c1" nameend="c3" cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                    <entry>27</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>53</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>719</entry>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>
+                <emphasis effect="bold">×</emphasis>
+                <emphasis effect="bold"> 10</emphasis>
+                <emphasis effect="bold">3</emphasis>
+              </entry>
+              <entrytbl namest="c5" nameend="c6" cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                    <entry>27 000</entry>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>53 000</entry>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>719 000</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+            <row>
+              <entry/>
+              <entry>894</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+              <entry>894 000</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <table id="id12373825" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entrytbl cols="3">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <colspec colnum="3" colname="c3"/>
+                <tbody>
+                  <row>
+                    <entry>1.3</entry>
+                    <entry>4</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>19</entry>
+                    <entry/>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>236</entry>
+                    <entry/>
+                  </row>
+                </tbody>
+              </entrytbl>
+              <entry>
+                <emphasis effect="bold">10</emphasis>
+                <emphasis effect="bold">3</emphasis>
+              </entry>
+              <entrytbl cols="2">
+                <colspec colnum="1" colname="c1"/>
+                <colspec colnum="2" colname="c2"/>
+                <tbody>
+                  <row>
+                    <entry/>
+                    <entry>400 000</entry>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>1 900 000</entry>
+                  </row>
+                  <row>
+                    <entry/>
+                    <entry>23 600 000</entry>
+                  </row>
+                </tbody>
+              </entrytbl>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id12347404">2. 2.1  20 000 + 9 000 = 29 000</para>
+      <para id="id13197871"> 2.2 160 000 + 1 200 = 158 800</para>
+      <para id="id13197878">2.3 700 000 = 4 000 000 = 4 700 000</para>
+      <para id="id13021680">2.4 8 000 000 + 160 000 = 7 840 000</para>
+    </section>
+    <section id="id13021687">
+      <title>LEANER SECTION</title>
+      <para id="para-id13021687">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11608348">
+      <title>Content</title>
+      <section id="id13013471">
+        <title>Activity: To determine output values for given input values [LO 2.3.2]</title>
+        <para id="id13013482"/>
+        <para id="id12847262">1. Let us see whether you are able to apply your knowledge of powers of 10 correctly. Complete the following flow diagrams:</para>
+        <para id="id12847269"><figure id="id13129003"><media id="id13129003_media" alt=""><image mime-type="image/jpg" src="../../media/graphics1-99a9.jpg" id="id13129003__onlineimage" height="147" width="238"/></media></figure>1.1 </para>
+        <para id="id13009271"><figure id="id13009273"><media id="id13009273_media" alt=""><image mime-type="image/jpg" src="../../media/graphics2-9659.jpg" id="id13009273__onlineimage" height="153" width="253"/></media></figure>1.2</para>
+        <para id="id8970375"><figure id="id8970377"><media id="id8970377_media" alt=""><image mime-type="image/jpg" src="../../media/graphics3-de2f.jpg" id="id8970377__onlineimage" height="134" width="255"/></media></figure>1.3</para>
+        <para id="id11661452">2. Work together with a friend and calculate:</para>
+        <para id="id12811781">2.1 (2 x 10<sup>4</sup>) + (9 x 10<sup>3</sup>) = ____________ + ____________ = ____________ </para>
+        <para id="id11562241">2.2 (16 x 10<sup>4</sup>) + (12 x 10<sup>2</sup>) = ___________ + ____________ = ____________ </para>
+        <para id="id9348101">2.3 (7 x 10<sup>5</sup>) + (4 x 10<sup>6</sup>) = ____________ + ____________ = ____________ </para>
+        <para id="id12994984">2.4 (8 x 10<sup>6</sup>) + (16 x 10<sup>4</sup>) = ____________ + ____________ = ____________ </para>
+        <para id="id11598188">3. Check your answers with a calculator.</para>
+        <para id="id13096188">CAN YOU STILL REMEMBER?</para>
+        <para id="id13096191">Explain to a friend how you can programme a calculator to multiply in powers of 10.</para>
+      </section>
+    </section>
+    <section id="id13096198">
+      <title>Assessment</title>
+      <para id="id12994254"><emphasis effect="bold">Learning Outcome 2:</emphasis> The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id13798567"><emphasis effect="bold">Assessment Standard 2.3:</emphasis> We know this when the learner determines output values for given input values, or input values for given output values, using:</para>
+      <para id="id13109870"><emphasis effect="bold">2.3.2:</emphasis> flow diagrams.</para>
+    </section>
+  </content>
+</document>

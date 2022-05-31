@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To ask simple questions and identify sources of data</title>
+  <metadata>
+  <md:content-id>m31676</md:content-id><md:title>To ask simple questions and identify sources of data</md:title>
+  <md:abstract/>
+  <md:uuid>dfdb11aa-f77b-49a0-b49d-22fd47aa2fe3</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171856231928">
+      <title>MATHEMATICS</title>
+      <para id="para-id1171856231928">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5796998">
+      <title>Geometry</title>
+      <para id="para-id5796998">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171860911361">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1171860911361">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171862020478">
+      <title>Memorandum</title>
+      <para id="para-id1171862020478">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171855141701">
+      <title>Learner Section</title>
+      <para id="para-id1171855141701">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1171860524865">
+      <title>Content</title>
+      <section id="id5298482">
+        <title>ACTIVITY: To draw enlargements and reductions of 2-dimensional figures [LO 3.3.2, LO 3.5]</title>
+        <para id="id1171855159192">For this activity you must divide into three groups. Choose one of the following subjects. Then choose one class in the school from whom you can collect the information.</para>
+        <list id="id1171861687454" list-type="bulleted">
+          <item>Favourite sport</item>
+          <item>Favourite TV programme</item>
+          <item>Favourite learning area at school</item>
+          <item>Favourite pet</item>
+          <item>Favourite weekend pastime</item>
+        </list>
+        <para id="id8630567">Compile a table to record the information, e.g.:</para>
+        <table id="id6297875" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Favourite sport</entry>
+                <entry>Hockey</entry>
+                <entry>Netball</entry>
+                <entry>Soccer</entry>
+                <entry>Rugby</entry>
+              </row>
+              <row>
+                <entry>Number of Learners</entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id1171862371515">
+      <title>Assessment</title>
+      <para id="id1171861110837"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id4157982"><emphasis><emphasis effect="italics">Assessment Standard 5.1:</emphasis></emphasis> We know this when the learner poses simple questions about own school and family environment, and identifies appropriate data sources in order to address human rights, social, political, cultural, environmental and economic issues in that environment;</para>
+      <para id="id1171854824185"><emphasis><emphasis effect="italics">Assessment Standard 5.4:</emphasis></emphasis> We know this when the learner organises and records data, using tallies and tables.</para>
+      <para id="id1171856231546"/>
+    </section>
+  </content>
+</document>

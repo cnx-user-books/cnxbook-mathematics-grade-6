@@ -1,0 +1,190 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To recognise, describe and use</title>
+  <metadata>
+  <md:content-id>m20975</md:content-id><md:title>To recognise, describe and use</md:title>
+  <md:abstract/>
+  <md:uuid>f5420ce6-4cb4-4167-acd0-1065d89b8567</md:uuid>
+</metadata>
+
+<content>
+    <section id="id14289940">
+      <title>MATHEMATICS</title>
+      <para id="para-id14289940">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id20370446">
+      <title>Division</title>
+      <para id="para-id20370446">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17011213">
+      <title>EDUCATOR SECTION</title>
+      <para id="id4681765">Memorandum</para>
+      <para id="id20609951">1.1 last 0 falls away</para>
+      <para id="id16088616">each number moves 1 place to the right</para>
+      <para id="id16088620">1.2 last 2 naughts falls away</para>
+      <para id="id20477490">each number moves 2 places to the right</para>
+      <para id="id15808916">1.3 last 3 noughts falls away</para>
+      <para id="id20574421">each number moves 3 places to the right</para>
+      <para id="id19855072">1.4 last 4 noughts falls away</para>
+      <para id="id14304810">each number moves 4 places to the right</para>
+      <para id="id20709185">7.</para>
+      <table id="id20709189" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>7.1 38</entry>
+              <entry>380</entry>
+              <entry>3 800</entry>
+              <entry>38 000</entry>
+            </row>
+            <row>
+              <entry>7.2 12</entry>
+              <entry>120</entry>
+              <entry>1 200</entry>
+              <entry>12 000</entry>
+            </row>
+            <row>
+              <entry>7.3 9</entry>
+              <entry>90</entry>
+              <entry>900</entry>
+              <entry>9 000</entry>
+            </row>
+            <row>
+              <entry>7.4 4</entry>
+              <entry>40</entry>
+              <entry>400</entry>
+              <entry>4 000</entry>
+            </row>
+            <row>
+              <entry>7.5 ½ / 0,5</entry>
+              <entry>5</entry>
+              <entry>50</entry>
+              <entry>500</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id11981482">
+      <title/>
+      <para id="para-id11981482">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id16231690">
+      <title/>
+      <para id="para-id16231690">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id19633238">
+      <title>LEANER SECTION</title>
+      <para id="para-id19633238">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id17460886">
+      <title>Content</title>
+      <section id="id3706604">
+        <title>Activity: To recognise, describe and use [LO 1.12.1]</title>
+        <para id="id20368916">As with multiplication, there are particular rules for division by multiples of 10, that enable you to calculate answers in a flash – without using pencil and paper! You have to form groups of three learners for the following activity.</para>
+        <para id="id20441827">1. See if you can formulate rules for the following:</para>
+        <para id="id19871221">2. Division by 10: __________________________________________________</para>
+        <para id="id20337144">_______________________________________________________________</para>
+        <para id="id20368266">_______________________________________________________________</para>
+        <para id="id20360144">3. Division by 100: _________________________________________________</para>
+        <para id="id14464815">_______________________________________________________________</para>
+        <para id="id14464820">_______________________________________________________________</para>
+        <para id="id20635331">4. Division by 1 000: ________________________________________________</para>
+        <para id="id19595411">_______________________________________________________________</para>
+        <para id="id20404514">_______________________________________________________________</para>
+        <para id="id20404519">5. Division by 10 000: _______________________________________________</para>
+        <para id="id14610496">_______________________________________________________________</para>
+        <para id="id20433240">_______________________________________________________________</para>
+        <para id="id7234431">6. Compare your answers with those of the class!</para>
+        <para id="id4941821">7. How quickly can YOU write down the answers to the following without using a calculator?</para>
+        <table id="id19854908" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>NUMBER</entry>
+                <entry>÷ 10 000</entry>
+                <entry>÷ 1 000</entry>
+                <entry>÷ 100</entry>
+                <entry>÷ 10</entry>
+              </row>
+              <row>
+                <entry>E.g.</entry>
+                <entry>560 000</entry>
+                <entry>56</entry>
+                <entry>560</entry>
+                <entry>5 600</entry>
+                <entry>56 000</entry>
+              </row>
+              <row>
+                <entry>7.1</entry>
+                <entry>380 000</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+              </row>
+              <row>
+                <entry>7.2</entry>
+                <entry>120 000</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+              </row>
+              <row>
+                <entry>7.3</entry>
+                <entry>90 000</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+              </row>
+              <row>
+                <entry>7.4</entry>
+                <entry>40 000</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+              </row>
+              <row>
+                <entry>7.5</entry>
+                <entry>5 000</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+                <entry>.......................</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id4753753">
+      <title>Assessment</title>
+      <para id="id14606022"><emphasis effect="bold">Learning Outcome 1:</emphasis> The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id5015340"><emphasis effect="bold">Assessment Standard 1.12:</emphasis> We know this when the learner recognises, describes and uses:</para>
+      <para id="id6929442"><emphasis effect="bold">1.12.1:</emphasis> divisibility rules for 2, 5, 10, 100 and 1 000.</para>
+    </section>
+  </content>
+</document>

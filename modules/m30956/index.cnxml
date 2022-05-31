@@ -1,0 +1,421 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To recognise and classify numbers in order to describe and compare them</title>
+  <metadata>
+  <md:content-id>m30956</md:content-id><md:title>To recognise and classify numbers in order to describe and compare them</md:title>
+  <md:abstract/>
+  <md:uuid>2c577f2c-9fa7-4fc9-b429-246514dc1317</md:uuid>
+</metadata>
+
+<content>
+    <section id="id10135667">
+      <title>MATHEMATICS</title>
+      <para id="para-id10135667">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11514085">
+      <title>Common and Decimal Fractions</title>
+      <para id="para-id11514085">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10435984">
+      <title>Common Fractions</title>
+      <para id="para-id10435984">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id10543001">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id10543001">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11293340">
+      <title>Memorandum</title>
+      <para id="id10144492">INTRODUCTION</para>
+      <para id="id11249778">The learning programme for grade six consists of five modules:</para>
+      <para id="id10911640">1. Number concept, Addition and Subtraction</para>
+      <para id="id11058771">2. Multiplication and Division</para>
+      <para id="id12091578">3. Fractions and Decimal fractions</para>
+      <para id="id10974456">4. Measurement and Time</para>
+      <para id="id11218669">5. Geometry; Data handling and Probability</para>
+      <list id="id10439661" list-type="bulleted">
+        <item>It is important that educators complete the modules in the above sequence, as the learners will require the knowledge and skills acquired through a previous module to be able to do the work in any subsequent module.</item>
+      </list>
+      <para id="id11275121">COMMON AND DECIMAL FRACTIONS (LO 1; 2 AND 5)</para>
+      <para id="id10278134">LEARNING UNIT 1 FOCUSES ON COMMON FRACTIONS</para>
+      <list id="id10278138" list-type="bulleted">
+        <item>This module continues the work dealt with in grade 5. Addition and subtraction of fractions are extended and calculation of a fraction of a particular amount is revised.</item>
+        <item>Check whether the learners know the correct terminology and are able to use the correct strategies for doing the above correctly. </item>
+        <item>Critical outcome 5 (Communicating effectively by using visual, symbolic and /or language skills in a variety of ways) is addressed. </item>
+        <item>It should be possible to work through the module in 3 weeks.</item>
+        <item>** Activity 17 is designed as a portfolio task. It is a very simple task, but learners should do it neatly and accurately. They must be informed in advance of how the educator will be assessing the work.</item>
+        <item>LEARNING UNIT 2 FOCUSES ON DECIMAL FRACTIONS</item>
+        <item>This module extends the work that was done in grade 5. Learners should be able to do rounding of decimal fractions to the nearest tenth, hundredth and thousandth. Emphasise the use of the correct method (vertical) for addition and subtraction. Also spend sufficient time on the multiplication and division of decimal fractions.</item>
+        <item>As learners usually have difficulty with the latter, you could allow 3 to 4 weeks for this section of the work.</item>
+        <item>** Activity 19 is a task for the portfolio. The assignment is fairly simple, but learners should complete it neatly and accurately. They must be informed in advance of how the educator will be assessing the work.</item>
+      </list>
+      <figure id="id11193100">
+        <media id="id11193100_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-2a50.png" id="id11193100__onlineimage" height="304" width="575"/>
+        </media>
+      </figure>
+      <figure id="id10177378">
+        <media id="id10177378_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-97e9.png" id="id10177378__onlineimage" height="448" width="479"/>
+        </media>
+      </figure>
+      <table id="id10801145" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>4.</entry>
+              <entry>IMPROPER FRACTION</entry>
+              <entry>
+                <emphasis effect="bold"/>
+                <emphasis effect="bold">MIXED NUMBER</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>4.1</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>14</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"14"} }  over  { size 8{4} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>3
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>4.2</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>19</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"19"} }  over  { size 8{6} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>3
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{6} } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>4.3</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>15</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>7</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"15"} }  over  { size 8{7} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>2
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{7} } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>4.4</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>11</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>8</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{"11"} }  over  { size 8{8} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>1
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{8} } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+            <row>
+              <entry>4.5</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>9</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{9} }  over  { size 8{2} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>4
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{2} } } } {}</m:annotation></m:semantics></m:math></entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id10864637">
+      <title>LEANER SECTION</title>
+      <para id="para-id10864637">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id11260933">
+      <title>Content</title>
+      <section id="id10889580">
+        <title>Common Fractions</title>
+        <para id="id11009262">In Grade 5 we spent much time working with fractions. Before beginning this year’s work, we need to know how well you can remember what you have learned! See if you can link the words in column A with the correct meanings in column B:</para>
+        <table id="id11028881" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>A</entry>
+                <entry/>
+                <entry>B</entry>
+              </row>
+              <row>
+                <entry>Numerator</entry>
+                <entry/>
+                <entry>Indicates how many equal parts are coloured in/ taken</entry>
+              </row>
+              <row>
+                <entry>Denominator</entry>
+                <entry/>
+                <entry>Numerator is smaller than the denominator</entry>
+              </row>
+              <row>
+                <entry>Equivalent fractions</entry>
+                <entry/>
+                <entry>Consists of a whole number and a proper fraction and is always bigger than 1</entry>
+              </row>
+              <row>
+                <entry>Proper fraction</entry>
+                <entry/>
+                <entry>Indicates the number of equal parts into which the whole has been divided</entry>
+              </row>
+              <row>
+                <entry>Improper fraction</entry>
+                <entry/>
+                <entry>Fractions of equal size</entry>
+              </row>
+              <row>
+                <entry>Mixed (fractional) number</entry>
+                <entry/>
+                <entry>The numerator is bigger than the denominator and the fraction is always bigger than 1</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id11186388">
+        <title>ACTIVITY: To recognise and classify numbers in order to describe and compare them [LO 1.3.3]</title>
+        <para id="id10910629">1. Kom ons hersien nog! Werk saam met ‘n maat en sê watter breukdeel van die vierkant Work with a friend and indicate which fraction of the square is represented by:</para>
+        <figure id="id10856607">
+          <media id="id10856607_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-5745.png" id="id10856607__onlineimage" height="300" width="300"/>
+          </media>
+        </figure>
+        <para id="id11073735">A : ………………………………………………  </para>
+        <para id="id10902381">B : ………………………………………………  </para>
+        <para id="id10130107">C : ……………………………………………… </para>
+        <para id="id10360436">A + C :  …………………………………………..</para>
+        <para id="id10105546">B + C : ………………………………………….. </para>
+        <para id="id11288111">C + D :  ………………………………………….. </para>
+        <para id="id10106545">A + D : ………………………………………….. </para>
+        <para id="id11297671">A + B :  …………………………………………..</para>
+        <para id="id11070818">B + D :  …………………………………………..</para>
+        <para id="id11140495">2. All the answers comprise …………………………………………... fractions.</para>
+        <para id="id10100555">3. Take a look at the picture of the bowl of apples. Colour the apples that represent proper fractions yellow, the improper fractions green and the mixed numbers red.</para>
+        <figure id="id10992040">
+          <media id="id10992040_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics4-51b8.png" id="id10992040__onlineimage" height="295" width="412"/>
+          </media>
+        </figure>
+        <para id="id10450644">4. Complete the table:</para>
+        <table id="id10547146" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry/>
+                <entry>IMPROPER FRACTION</entry>
+                <entry>MIXED NUMBER</entry>
+              </row>
+              <row>
+                <entry>E.g.</entry>
+                <entry>thirteen fifths</entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mtext>13</m:mtext>
+                              <m:mn>5</m:mn>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  {"13"}  over  {5} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                              <m:mfrac>
+                                <m:mn>3</m:mn>
+                                <m:mn>5</m:mn>
+                              </m:mfrac>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{2 {  {3}  over  {5} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+              </row>
+              <row>
+                <entry>4.1</entry>
+                <entry>fourteen quarters</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4.2</entry>
+                <entry>nineteen sixths</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4.3</entry>
+                <entry>fifteen sevenths</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4.4</entry>
+                <entry>eleven eighths</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4.5</entry>
+                <entry>nine halves</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id11185058">
+      <title>Assessment</title>
+      <para id="id10997239"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id11181644"><emphasis><emphasis effect="italics">Assessment Standard 1.3:</emphasis></emphasis> We know this when the learner recognises and represents the following numbers in order to describe and compare them:</para>
+      <para id="id10099262">1.3.3 common fractions, including specifically tenths, hundreds and percentages.</para>
+    </section>
+  </content>
+</document>

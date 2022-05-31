@@ -1,0 +1,145 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To ask simple questions and identifying sources of data</title>
+  <metadata>
+  <md:content-id>m31680</md:content-id><md:title>To ask simple questions and identifying sources of data</md:title>
+  <md:abstract/>
+  <md:uuid>99581fb5-c4fb-402e-9d86-8eb278175672</md:uuid>
+</metadata>
+
+<content>
+    <section id="id12442143">
+      <title>MATHEMATICS</title>
+      <para id="para-id12442143">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6647198">
+      <title>Geometry</title>
+      <para id="para-id6647198">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id22562814">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id22562814">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id18514556">
+      <title>Memorandum</title>
+      <para id="para-id18514556">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4874172">
+      <title>Learner Section</title>
+      <para id="para-id4874172">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id14348212">
+      <title>Content</title>
+      <section id="id22565868">
+        <title>ACTIVITY: To ask simple questions and identifying sources of data [LO 5.1]</title>
+        <para id="para-id22565868">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id12715020">
+        <title>To use simple tables to collect data and answer questions [LO 5.2]</title>
+        <para id="para-id12715020">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id5496329">
+        <title>To organise and record data [LO 5.4]</title>
+        <para id="para-id5496329">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id19023472">
+        <title>To examine ungrouped numerical data and determining the mode, median and arithmetical average [LO 5.5]</title>
+        <para id="para-id19023472">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id22503199">
+        <title>To draw a variety of graphs [LO 5.6]</title>
+        <para id="para-id22503199">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id22143625">
+        <title>To read and interpret data critically [LO 5.7.2]</title>
+        <para id="id21584696">**This is an assignment for your portfolio. Read the instructions attentively before you begin working.</para>
+        <para id="id13480806">1. Record the shoe sizes of all the children in any clqss (besides your own) in the school</para>
+        <para id="id5936798">2. Present the information neatly in a table</para>
+        <para id="id14748492">3. Now present the information by means of a graph of your own choice</para>
+        <para id="id5962887">4. Determine the mode of the data</para>
+        <para id="id15887921">5. Determine the arithmetical average</para>
+        <para id="id15766093">6. Note down any interesting facts about the data that you have collected</para>
+        <table id="id5068103" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry>Criteria</entry>
+                <entry namest="c2" nameend="c5">Code</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+              </row>
+              <row>
+                <entry>Completion</entry>
+                <entry>Hardly any of the instructions have been carried out.</entry>
+                <entry>Half of the instructions have been carried out.</entry>
+                <entry>One or two instructions have not been carried out.</entry>
+                <entry>All instructions have been carried out.</entry>
+              </row>
+              <row>
+                <entry>Neatness and organisation</entry>
+                <entry>Work is untidy and unorganised.</entry>
+                <entry>Organised but difficult to read.</entry>
+                <entry>Neat, organised and easy to read.</entry>
+                <entry>Neat, clearly set out and very easy to read.</entry>
+              </row>
+              <row>
+                <entry>Graph</entry>
+                <entry>Virtually impossible to interpret.</entry>
+                <entry>Data unorganised and difficult to interpret.</entry>
+                <entry>Graph can be interpreted but is not 100% correct.</entry>
+                <entry>The graph is ordered and data presented meaningfully. Easy to interpret.</entry>
+              </row>
+              <row>
+                <entry>Correctness of calculations</entry>
+                <entry>All answers are incorrectly calculated.</entry>
+                <entry>Many mistakes made.</entry>
+                <entry>Few mistakes have been made.</entry>
+                <entry>All answers are correctly calculated.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id18611861">
+      <title>Assessment</title>
+      <para id="id6647449"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id15130761"><emphasis><emphasis effect="italics">Assessment Standard 5.1:</emphasis></emphasis> We know this when the learner poses simple questions about own school and family environment, and identifies appropriate data sources in order to address human rights, social, political, cultural, environmental and economic issues in that environment;</para>
+      <para id="id18562704"><emphasis><emphasis effect="italics">Assessment Standard 5.2:</emphasis></emphasis> We know this when the learner uses simple data collection sheets (requiring tallies) and simple questionnaires (with yes/no type responses) in order to collect data (alone or as a member of a group or team) to answer questions posed by the teacher, class and self;</para>
+      <para id="id5448872"><emphasis><emphasis effect="italics">Assessment Standard 5.4:</emphasis></emphasis> We know this when the learner organises and records data, using tallies and tables;</para>
+      <para id="id18663626"><emphasis><emphasis effect="italics">Assessment Standard 5.5:</emphasis></emphasis> We know this when the learner examines ungrouped numerical data to determine the most frequently occurring score (mode) and the midpoint (median) of the data set in order to describe central tendencies;</para>
+      <para id="id6069788"><emphasis><emphasis effect="italics">Assessment Standard 5.6:</emphasis></emphasis> We know this when the learner draws a variety of graphs by hand/technology to display and interpret data (grouped and ungrouped);</para>
+      <para id="id21330905"><emphasis><emphasis effect="italics">Assessment Standard 5.7:</emphasis></emphasis> We know this when the learner critically reads and interprets data presented in a variety of ways (including own representations, representations in the media - words, graphs, pie graphs) to draw conclusions and make predictions sensitive to the role of:</para>
+      <para id="id6714980">5.7.2: categories (e.g. age, gender, race).</para>
+    </section>
+  </content>
+</document>

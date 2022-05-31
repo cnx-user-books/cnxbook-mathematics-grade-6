@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To draw and interpret sketches</title>
+  <metadata>
+  <md:content-id>m31683</md:content-id><md:title>To draw and interpret sketches</md:title>
+  <md:abstract/>
+  <md:uuid>144e1cfd-85cc-48e9-bc78-f3b8029e65d4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7794132">
+      <title>MATHEMATICS</title>
+      <para id="para-id7794132">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172448087566">
+      <title>Geometry</title>
+      <para id="para-id1172448087566">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6555421">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id6555421">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id7751849">
+      <title>Memorandum </title>
+      <para id="id1172454614020">1. 4</para>
+      <para id="id8841749">2. </para>
+      <para id="id7867976">2.1 19</para>
+      <para id="id8969067">2.2 8</para>
+    </section>
+    <section id="id1172454542650">
+      <title>Learner Section</title>
+      <para id="para-id1172454542650">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1172450148867">
+      <title>Content</title>
+      <section id="id1172448081062">
+        <title>ACTIVITY:To draw and interpret sketches [LO 3.7]</title>
+        <para id="id8979553">1. Take a good look at this sketch of a cube.</para>
+        <para id="id5250514">How many squares are not visible when you view it from the front?</para>
+        <para id="id7619305">
+          <figure id="id1172448082440">
+            <media id="id1172448082440_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-6d9c.png" id="id1172448082440__onlineimage" height="257" width="247"/>
+            </media>
+          </figure>
+        </para>
+        <para id="id8751909">2. View the cube from the side.</para>
+        <para id="id1172449349411">2.1 How many cubes do you see?</para>
+        <para id="id7845314">_____________________________________________________________________</para>
+        <para id="id1172449139577">2.2 How many cubes are invisible?</para>
+        <para id="id7854157">_____________________________________________________________________</para>
+        <para id="id1172449026740">3. Now draw any one of these cubes from above.</para>
+        <para id="id1172448277834">CHALLENGE!</para>
+        <para id="id1172450511202">Ask your educator for the sheet of paper that you will need.</para>
+        <list id="id1172449263649" list-type="bulleted">
+          <item>Take off one of your school shoes:</item>
+          <item>Draw it from above.</item>
+          <item>Draw it from the side.</item>
+          <item>Draw it from below.</item>
+        </list>
+        <para id="id7318182">Time for self-assessment</para>
+        <para id="id1172447960489">Read the criteria. How do you feel about the work that we have just completed? Colour the face that is true for you.</para>
+        <figure id="id1172447925778">
+          <media id="id1172447925778_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics2-541f.png" id="id1172447925778__onlineimage" height="570" width="600"/>
+          </media>
+        </figure>
+        <para id="id1172454510443"/>
+        <para id="id6161943">DID YOU KNOW?</para>
+        <para id="id5294037">We can make use of co-ordinates when we need to read a map or directions. It is </para>
+        <para id="id1172448107362">important to know that we always have to read the horizontal axis first.</para>
+        <para id="id8891883">In this example, point A reads as </para>
+        <para id="id8847681">paired numbers (1,2).</para>
+        <para id="id1172448080312">If you read the pair (3,1), you will </para>
+        <para id="id1172456950929">arrive at B.</para>
+        <para id="id7833174">Sometimes direction is also given, and then it is: (1E, 2N) or (3E, 1N).</para>
+        <figure id="id8883272">
+          <media id="id8883272_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics3-4489.png" id="id8883272__onlineimage" height="154" width="197"/>
+          </media>
+        </figure>
+      </section>
+    </section>
+    <section id="id6053564">
+      <title>Assessment</title>
+      <para id="id7636594">Learning Outcome 3: The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id1172450492015">Assessment Standard 3.7: We know this when the learner draws and interprets sketches of simple three-dimensional objects from different positions (perspectives).</para>
+    </section>
+  </content>
+</document>

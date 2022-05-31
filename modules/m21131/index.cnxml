@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To describe and classify 3-dimensional figures</title>
+  <metadata>
+  <md:content-id>m21131</md:content-id><md:title>To describe and classify 3-dimensional figures</md:title>
+  <md:abstract/>
+  <md:uuid>0726aef1-460c-4233-909f-becdf104ce44</md:uuid>
+</metadata>
+
+<content>
+    <section id="id8743708">
+      <title>MATHEMATICS</title>
+      <para id="para-id8743708">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8712900">
+      <title>Geometry</title>
+      <para id="para-id8712900">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8951501">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id8951501">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id8565336">
+      <title>Memorandum</title>
+      <table id="id6561638" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry>Figure</entry>
+              <entry>Number of edges</entry>
+              <entry>Number of faces</entry>
+              <entry>Number of vertices</entry>
+            </row>
+            <row>
+              <entry>1.</entry>
+              <entry>
+                <media id="id3707168" alt="">
+                  <image mime-type="image/png" src="../../media/graphics1-4d49.png"/>
+                </media>
+              </entry>
+              <entry>9</entry>
+              <entry>5</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>2.</entry>
+              <entry>
+                <media id="id8125327" alt="">
+                  <image mime-type="image/png" src="../../media/graphics2-6cb3.png"/>
+                </media>
+              </entry>
+              <entry>18</entry>
+              <entry>8</entry>
+              <entry>12</entry>
+            </row>
+            <row>
+              <entry>3.</entry>
+              <entry>
+                <media id="id8296258" alt="">
+                  <image mime-type="image/png" src="../../media/graphics3-60b1.png"/>
+                </media>
+              </entry>
+              <entry>8</entry>
+              <entry>5</entry>
+              <entry>5</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id8484032">
+      <title>LEANER SECTION</title>
+      <para id="para-id8484032">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4520656">
+      <title>Content</title>
+      <section id="id6522235">
+        <title>ACTIVITY: To describe and classify 3-dimensional figures [LO 3.2.1]</title>
+        <para id="id8697865">Look at the following figures and complete the table:</para>
+        <table id="id7717614" summary="">
+          <tgroup cols="5">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry/>
+                <entry>Figure</entry>
+                <entry>Number of edges</entry>
+                <entry>Number of faces</entry>
+                <entry>Number of vertices</entry>
+              </row>
+              <row>
+                <entry>1.</entry>
+                <entry>
+                  <media id="id6304121" alt="">
+                    <image mime-type="image/png" src="../../media/graphics4-4d49.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2.</entry>
+                <entry>
+                  <media id="id7936617" alt="">
+                    <image mime-type="image/png" src="../../media/graphics5-6cb3.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3.</entry>
+                <entry>
+                  <media id="id8744250" alt="">
+                    <image mime-type="image/png" src="../../media/graphics6-60b1.png"/>
+                  </media>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id7811462">
+      <title>Assessment</title>
+      <para id="id4109828"><emphasis><emphasis effect="italics">Learning Outcome 3:</emphasis></emphasis>The learner will be able to describe and represent characteristics and relationships between two-dimensional shapes and three-dimensional objects in a variety of orientations and positions.</para>
+      <para id="id4653863"><emphasis><emphasis effect="italics">Assessment Standard 3.2:</emphasis></emphasis> We know this when the learner describes and classifies two-dimensional shapes and three-dimensional objects in terms of properties including:</para>
+      <para id="id4712680"><emphasis>3.2.1: </emphasis>faces, vertices and edges.</para>
+    </section>
+  </content>
+</document>

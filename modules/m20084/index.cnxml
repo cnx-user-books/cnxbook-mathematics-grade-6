@@ -1,0 +1,121 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To solve problems in context</title>
+  <metadata>
+  <md:content-id>m20084</md:content-id><md:title>To solve problems in context</md:title>
+  <md:abstract/>
+  <md:uuid>d2a466c0-36f6-43a6-98f7-c30543f3c428</md:uuid>
+</metadata>
+
+<content>
+    <section id="id43028576">
+      <title>MATHEMATICS</title>
+      <para id="para-id43028576">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43425701">
+      <title>Subtraction</title>
+      <para id="para-id43425701">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43665208">
+      <title/>
+      <para id="para-id43665208">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43671892">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id43671892">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id42868769">
+      <title>Memorandum</title>
+      <para id="para-id42868769">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id43088670">
+      <title>LEANER SECTION</title>
+      <section id="id43182378">
+        <title>Content</title>
+        <section id="id43291957">
+          <title>Activity: To solve problems in context [LO 1.6.1]</title>
+          <para id="para-id43291957">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id43393893">
+          <title>To use a range of techniques to perform calculations [LO 1.8.2]</title>
+          <para id="id43365197"/>
+          <para id="id43032454">Being observant, I’m sure that you will have seen that we deal with a lot of ‘subtractions’ in our daily lives! Consider the following carefully:</para>
+          <para id="id43101753">Here we have a list of things that you may also have at home.</para>
+          <para id="id43059566">1. Find two prices for each item in the local newspaper. Write down the highest price. Then calculate the difference between the two prices. (You may use your pocket calculator).</para>
+          <table id="id42954857" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>ITEM</entry>
+                  <entry>PRICE 1</entry>
+                  <entry>PRICE 2</entry>
+                  <entry>DIFFERENCE</entry>
+                </row>
+                <row>
+                  <entry>1.1 Computer</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                </row>
+                <row>
+                  <entry>1.2 Microwave oven</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                </row>
+                <row>
+                  <entry>1.3 Fridge</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                </row>
+                <row>
+                  <entry>1.4 Colour TV</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                </row>
+                <row>
+                  <entry>1.5 Iron</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                  <entry>________________</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id43416425">2. How much will you save if you pay price 2 instead of price 1 for all the items?</para>
+          <para id="id43142595">_____________________________________________________________________</para>
+          <para id="id43059434">_____________________________________________________________________</para>
+          <para id="id43277452">_____________________________________________________________________</para>
+          <para id="id43065038">_____________________________________________________________________</para>
+          <para id="id43662707">_____________________________________________________________________</para>
+          <para id="id42940215">3. Ask your partner to check your answers.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id42950219">
+      <title>Assessment</title>
+      <para id="id43350556"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>The learner will be able to recognise, describe and represent numbers and their relationships, and to count, estimate, calculate and check with competence and confidence in solving problems.</para>
+      <para id="id43321477"><emphasis><emphasis effect="italics">Assessment Standard 1.6:</emphasis></emphasis> We know this when the learner solves problems in context including contexts that may be used to build awareness of other Learning Areas, as well as human rights, social, economic and environmental issues such as:</para>
+      <para id="id43274801"><emphasis effect="bold">1.6.1:</emphasis> financial (including buying and selling, profit and loss, simple budgets, reading and interpreting accounts, and discount);</para>
+      <para id="id43072510"><emphasis><emphasis effect="italics">Assessment Standard 1.8:</emphasis></emphasis> We know this when the learner estimates and calculates by selecting and using operations appropriate to solving problems that involve:</para>
+      <para id="id43431238"><emphasis effect="bold">1.8.1:</emphasis> rounding off to the nearest 5, 10, 100 or 1 000</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,232 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Recognising and describing angles</title>
+  <metadata>
+  <md:content-id>m21117</md:content-id><md:title>Recognising and describing angles</md:title>
+  <md:abstract/>
+  <md:uuid>38736af6-b9e3-447e-95b2-b50bf9a2a2f4</md:uuid>
+</metadata>
+
+<content>
+    <section id="id42567425">
+      <title>MATHEMATICS</title>
+      <para id="para-id42567425">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id42567433">
+      <title>Geometry</title>
+      <para id="para-id42567433">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id42072345">
+      <title>Volume</title>
+      <para id="para-id42072345">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id42072353">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id42072353">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id42099571">
+      <title>Memorandum</title>
+      <para id="id49231565">Do you remember what the word <emphasis effect="bold">parallel</emphasis> means? Write down the definition for it:</para>
+      <para id="id42603679">Invariable </para>
+      <para id="id42603683">1. A: Yes</para>
+      <para id="id47576811"> B: Yes</para>
+      <para id="id47576818">2. C</para>
+      <para id="id42597229">1.</para>
+      <para id="id42597233">1.1 Obtuse</para>
+      <para id="id42095012">1.2 Right angle</para>
+      <para id="id42095019">1.3 Rotation</para>
+      <para id="id42039874">1.4 Acute</para>
+      <para id="id42039881">BRAIN-TEASER!</para>
+      <para id="id42386410">1. Acute</para>
+      <para id="id42386416"> Obtuse</para>
+      <para id="id47585019"> Straight</para>
+      <para id="id47585025"> Right angle</para>
+      <para id="id47586814">2. Class discussion:</para>
+    </section>
+    <section id="id47586822">
+      <title>LEANER SECTION</title>
+      <para id="para-id47586822">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id42081593">
+      <title>Content</title>
+      <para id="id42041345">Do you remember what the word parallel means? Write down the definition for it:</para>
+      <para id="id42041352">_____________________________________________________________________</para>
+      <para id="id42094125">_____________________________________________________________________</para>
+      <para id="id42094130">_____________________________________________________________________</para>
+      <para id="id47585964"/>
+      <para id="id47585968">Let's begin with some "puzzles"!</para>
+      <para id="id47585972">Look at the sketches below and answer the questions that follow:</para>
+      <para id="id42412045">
+        <figure id="id42412053">
+          <media id="id42412053_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics1-6476.png" id="id42412053__onlineimage" height="160" width="585"/>
+          </media>
+        </figure>
+      </para>
+      <para id="id41161448">1. Indicate whether EF and GH are parallel to one another in figure </para>
+      <para id="id42526499">A: __________________________________________________________________</para>
+      <para id="id42526505">B: __________________________________________________________________</para>
+      <para id="id42432109">2. Which is the extension of F: C or K? </para>
+      <figure id="id42567138">
+        <media id="id42567138_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-23df.png" id="id42567138__onlineimage" height="135" width="224"/>
+        </media>
+      </figure>
+      <para id="id41996020">Do you still remember?</para>
+      <table id="id41996024" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>
+                <media id="id42406675" alt="">
+                  <image mime-type="image/png" src="../../media/graphics3-d83c.png"/>
+                </media>
+              </entry>
+              <entry>indicates a line: AB</entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id47586513" alt="">
+                  <image mime-type="image/png" src="../../media/graphics4-e737.png"/>
+                </media>
+              </entry>
+              <entry>indicates a line segment: EF</entry>
+            </row>
+            <row>
+              <entry>
+                <media id="id42079111" alt="">
+                  <image mime-type="image/png" src="../../media/graphics5-05cd.png"/>
+                </media>
+              </entry>
+              <entry>indicates a radius: CD</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id42071491"/>
+      <para id="id42037385">Two lines that intersect form an angle.</para>
+      <figure id="id42037392">
+        <media id="id42037392_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics6-c976.png" id="id42037392__onlineimage" height="102" width="196"/>
+        </media>
+      </figure>
+      <para id="id42091888">The point where the lines meet is called the vertex.</para>
+      <para id="id42091893">We write this as: ÐABC</para>
+      <list id="id42384437" list-type="bulleted">
+        <item>Did you know?</item>
+      </list>
+      <para id="id42384446">The unit that we use for measuring angles is a degree. We measure </para>
+      <para id="id42269954">the size of the angle in degrees. We write an angle of 60 degrees as 60°.</para>
+      <para id="id49230740">You have to learn the different types of angles:</para>
+      <table id="id49230745" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry namest="c1" nameend="c2">Types of angles</entry>
+            </row>
+            <row>
+              <entry>1. The size of a <emphasis effect="bold">rotation</emphasis> or full turn is 360°</entry>
+              <entry>
+                <media id="id42039786" alt="">
+                  <image mime-type="image/png" src="../../media/graphics7-56d4.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>2. A <emphasis effect="bold">straight angle</emphasis> is a half turn and it is 180°.</entry>
+              <entry>
+                <media id="id42090056" alt="">
+                  <image mime-type="image/png" src="../../media/graphics8-4670.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>3. A <emphasis effect="bold">right angle</emphasis> is a quarter turn and it is 90°.</entry>
+              <entry>
+                <media id="id42101661" alt="">
+                  <image mime-type="image/png" src="../../media/graphics9-b977.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>4. An <emphasis effect="bold">acute angle</emphasis> is larger that 0°, but smaller than 90°.</entry>
+              <entry>
+                <media id="id47581453" alt="">
+                  <image mime-type="image/png" src="../../media/graphics10-3cbd.png"/>
+                </media>
+              </entry>
+            </row>
+            <row>
+              <entry>5. An <emphasis effect="bold">obtuse angle</emphasis> is larger than 90°, but smaller than 180°.</entry>
+              <entry>
+                <media id="id47578538" alt="">
+                  <image mime-type="image/png" src="../../media/graphics11-db36.png"/>
+                </media>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="id48621790">
+      <title>ACTIVITY: Recognising and describing angles [LO 4.11]</title>
+      <para id="id48621799">1. How well do you know angles?</para>
+      <para id="id42252254"> Work with a partner to see if the two of you can tell what the following angles are:</para>
+      <table id="id42252261" summary="">
+        <tgroup cols="1">
+          <colspec colnum="1" colname="c1"/>
+          <tbody>
+            <row>
+              <entry><media id="id42603397" alt=""><image mime-type="image/png" src="../../media/graphics12-513e.png"/></media>1.1 </entry>
+            </row>
+            <row>
+              <entry> _________________________________</entry>
+            </row>
+            <row>
+              <entry><media id="id47580175" alt=""><image mime-type="image/png" src="../../media/graphics13-135f.png"/></media>1.2</entry>
+            </row>
+            <row>
+              <entry> _________________________________</entry>
+            </row>
+            <row>
+              <entry><media id="id42074666" alt=""><image mime-type="image/png" src="../../media/graphics14-8a9b.png"/></media>1.3</entry>
+            </row>
+            <row>
+              <entry>_________________________________</entry>
+            </row>
+            <row>
+              <entry><media id="id42414851" alt=""><image mime-type="image/png" src="../../media/graphics15-ed02.png"/></media>1.4</entry>
+            </row>
+            <row>
+              <entry>_________________________________</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <section id="id49245699">
+        <title/>
+        <para id="para-id49245699">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id49245705">
+        <title>Assessment</title>
+        <para id="id47584048"><emphasis><emphasis effect="italics">Learning Outcome 4:</emphasis></emphasis>The learner will be able to use appropriate measuring units, instruments and formulae in a variety of contexts.</para>
+        <para id="id47577063"><emphasis><emphasis effect="italics">Assessment Standard 4.11:</emphasis></emphasis> We know this when the learner recognises and describes angles in two-dimensional shapes, three-dimensional objects and the environment.</para>
+      </section>
+    </section>
+  </content>
+</document>

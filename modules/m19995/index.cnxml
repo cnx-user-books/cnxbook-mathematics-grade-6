@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To use a series of techniques to perform calculations</title>
+  <metadata>
+  <md:content-id>m19995</md:content-id><md:title>To use a series of techniques to perform calculations</md:title>
+  <md:abstract/>
+  <md:uuid>4ed638b2-cbe4-48ac-9cb7-18fa6b1770a9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3673102">
+      <title>MATHEMATICS</title>
+      <para id="para-id3673102">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id4263015">
+      <title>Number Concept</title>
+      <para id="para-id4263015">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id6056379">
+      <title/>
+      <para id="para-id6056379">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id5963265">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id5963265">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id3736010">
+      <title>Memorandum</title>
+      <para id="id4295244">1.1 50 000 + 400 + 30 + 6</para>
+      <para id="id4430487">1.2 90 000 + 800 + 10 + 7</para>
+      <section id="id3355317">
+        <title>PUZZLE!</title>
+        <para id="id3499102"> 100 000</para>
+        <para id="id3685996"> 100 000; hundred thousand</para>
+      </section>
+    </section>
+    <section id="id3279190">
+      <title>Leaner Section</title>
+      <section id="id3317453">
+        <title>Content</title>
+        <para id="para-id3317453">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id3476486">
+        <title>ACTIVITY: To use a series of techniques to perform calculations [1.10.3]</title>
+        <para id="id4264506">1. Do you still remember what "expanded notation" is? Quickly explain it to a partner! Then look at the example and see whether you can write the following numbers in expanded notation:</para>
+        <para id="id4287116">e.g. 36 518 = 30 000 + 6 000 + 500 + 10 + 8</para>
+        <para id="id4286960">1.1 50 436 =  </para>
+        <para id="id3631594">1.2 98 017 =  </para>
+      </section>
+      <section id="id4307478">
+        <title>PUZZLE!</title>
+        <para id="id3416268">What number is 10 times larger than 10 000? </para>
+        <para id="id3631566"/>
+        <para id="id3703526">Fill in the missing answers:</para>
+        <para id="id4329434">9 + 1 = 10 ten</para>
+        <para id="id6065566">99 + 1 = 100 one hundred</para>
+        <para id="id4308454">999 + 1 = 1 000 one thousand</para>
+        <para id="id3609919">9 999 + 1 = 10 000 ten thousand</para>
+        <para id="id3618349">99 999 + 1 = __________________ __________________</para>
+        <list id="id3386976" list-type="bulleted">
+          <item>Let us see if you were correct!</item>
+        </list>
+        <table id="id3734702" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Hundred thousand</entry>
+                <entry>Ten thousand</entry>
+                <entry>Thousand</entry>
+                <entry>Hundred</entry>
+                <entry>Ten</entry>
+                <entry>One</entry>
+              </row>
+              <row>
+                <entry>HTh</entry>
+                <entry>TTh</entry>
+                <entry>Th</entry>
+                <entry>H</entry>
+                <entry>T</entry>
+                <entry>U</entry>
+              </row>
+              <row>
+                <entry>10 × 10 × 10 × 10 × 10</entry>
+                <entry>10 × 10 × 10 × 10</entry>
+                <entry>10 × 10 × 10</entry>
+                <entry>10 × 10</entry>
+                <entry>10</entry>
+                <entry>1</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>1</entry>
+                <entry>8</entry>
+                <entry>5</entry>
+                <entry>2</entry>
+                <entry>6</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id3630322">We read 318 526 as three hundred and eighteen thousand five hundred and twenty six.</para>
+        <para id="id3340825">You were therefore correct if you said 100 000 (hundred thousand).</para>
+        <para id="id3466028"/>
+      </section>
+    </section>
+    <section id="id3698162">
+      <title>Assessment</title>
+      <para id="id3637853"><emphasis effect="bold">Learning Outcome 1:</emphasis> The learner will be able to recognise, describe and represent patterns and relationships, as well as to solve problems using algebraic language and skills.</para>
+      <para id="id3707976"><emphasis effect="bold">Assessment Standard 1.10:</emphasis> We know this when the learner uses a range of techniques to perform written and mental calculations with whole numbers including:</para>
+      <para id="id3495296"><emphasis effect="bold">1.10.3:</emphasis> building up and breaking down numbers</para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To list possible outcomes to simple experiments</title>
+  <metadata>
+  <md:content-id>m21843</md:content-id><md:title>To list possible outcomes to simple experiments</md:title>
+  <md:abstract/>
+  <md:uuid>82e26728-849e-47f9-a06f-aa4dfd90ce09</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1166548114201">
+      <title>MATHEMATICS</title>
+      <para id="para-id1166548114201">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166551219230">
+      <title>Probability</title>
+      <para id="para-id1166551219230">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166546387535">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1166546387535">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166548769048">
+      <title>Memorandum</title>
+      <para id="id6140171">1. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mtext>12</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {"12"} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166548142242">2. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>6</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {6} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2</m:mn><m:mn>3</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id5275146">3. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>6</m:mn><m:mtext>16</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {6}  over  {"16"} } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id2190827">4. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id1166549915278">5. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>4</m:mn><m:mn>5</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation></m:semantics></m:math></para>
+    </section>
+    <section id="id1166548056182">
+      <title>LEANER SECTION</title>
+      <para id="para-id1166548056182">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1166549260281">
+      <title>Content</title>
+      <section id="id1166549457471">
+        <title>ACTIVITY: To list possible outcomes to simple experiments [LO 5.9]</title>
+        <para id="id1166548977785">Determine the probability in the following cases:</para>
+        <para id="id1166548850443">1. Two dice are rolled simultaneously. What is the probability of one die landing on 1?</para>
+        <para id="id1166550947137">_____________________________________________________________________</para>
+        <para id="id1166549100198">_____________________________________________________________________</para>
+        <para id="id1166548930334"/>
+        <para id="id1166548854981">2. There are two pairs of white and one pair of black socks in my drawer. What is the  probability of taking out a white sock without looking?</para>
+        <para id="id1166548782596">_____________________________________________________________________</para>
+        <para id="id5918091">_____________________________________________________________________</para>
+        <para id="id5870487"/>
+        <para id="id6655518">3. There are five forks, five knives and six spoons lying together in the cutlery drawer. What is the probability of taking out a spoon?</para>
+        <para id="id5578357">_____________________________________________________________________</para>
+        <para id="id6657149">_____________________________________________________________________</para>
+        <para id="id4401810">4. What is the probability of a coin landing on 'tails' when tossed into the air?</para>
+        <para id="id4391749">_____________________________________________________________________</para>
+        <para id="id1166548046502">_____________________________________________________________________</para>
+        <para id="id5940591"/>
+        <para id="id5503478">5. Look at the following sketch. What is the probability of the pointer not stopping on P when it is spun?</para>
+        <para id="id1166548750828">_____________________________________________________________________</para>
+        <para id="id1166546356057">_____________________________________________________________________</para>
+        <para id="id5292284">
+          <figure id="id6578463">
+            <media id="id6578463_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics1-85f5.png" id="id6578463__onlineimage" height="153" width="158"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+    </section>
+    <section id="id1166546094328">
+      <title>Assessment</title>
+      <para id="id1166546199796"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id5852064"><emphasis><emphasis effect="italics">Assessment Standard 5.9:</emphasis></emphasis> We know this when the learner lists possible outcomes for simple experiments (including tossing a coin, rolling a die, and spinning a spinner);</para>
+    </section>
+  </content>
+</document>

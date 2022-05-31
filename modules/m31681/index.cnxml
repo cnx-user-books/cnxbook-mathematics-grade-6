@@ -1,0 +1,158 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To count the frequency of actual outcomes for a series of trials</title>
+  <metadata>
+  <md:content-id>m31681</md:content-id><md:title>To count the frequency of actual outcomes for a series of trials</md:title>
+  <md:abstract/>
+  <md:uuid>2e62ea9e-3505-4d46-a022-a597f219a7b1</md:uuid>
+</metadata>
+
+<content>
+    <section id="id46088210">
+      <title>MATHEMATICS</title>
+      <para id="para-id46088210">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46088218">
+      <title>Geometry</title>
+      <para id="para-id46088218">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46088226">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id46088226">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46088234">
+      <title>Memorandum</title>
+      <para id="para-id46088234">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46088242">
+      <title>Learner Section</title>
+      <para id="para-id46088242">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id46088250">
+      <title>Content</title>
+      <section id="id46088257">
+        <title>ACTIVITY: To count the frequency of actual outcomes for a series of trials [LO 5.10]</title>
+        <para id="id46088268">1. Work with a friend. Throw a die 20 times and record each time that it lands on a 4.</para>
+        <para id="id46088278">Fill in: number of times: ________________________________________________</para>
+        <para id="id46088285">2. Work with a friend. Toss a coin into the air 20 times and note each time it falls on 'heads'.</para>
+        <para id="id46088294">Fill in: number of times: ________________________________________________</para>
+        <para id="id46088302">DID YOU KNOW?</para>
+        <para id="id46088306">The number of times that were recorded above is referred to as the relative frequency.</para>
+        <para id="id46088312">If the 4 had shown up 9 times in the above example, we would calculate the relative frequency as follows:</para>
+        <para id="id46088319">Relative frequency = </para>
+        <para id="id46088323">number of fours</para>
+        <para id="id46088328">number of throws</para>
+        <equation id="id46088332">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow/>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mn>9</m:mn>
+                        <m:mtext>20</m:mtext>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ {}= {  {9}  over  {"20"} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+        <para id="id49961325">3. Throw the die 30 times and see how often it lands on 2.</para>
+        <para id="id49961332">Calculate the relative frequency.</para>
+        <para id="id49961337">_____________________________________________________________________</para>
+        <para id="id49961343">_____________________________________________________________________</para>
+        <para id="id49961348">_____________________________________________________________________</para>
+        <para id="id49961354">_____________________________________________________________________</para>
+        <para id="id49961360">_____________________________________________________________________</para>
+        <para id="id49961366">Time For Self-Assessment</para>
+        <para id="id49961370">It is important to know if you have understood the last part of the work. Read the criteria below. Evaluate yourself on a scale of 1-4 by circling the appropriate number.</para>
+        <table id="id49961379" summary="">
+          <tgroup cols="6">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <tbody>
+              <row>
+                <entry>Criteria</entry>
+                <entry namest="c2" nameend="c5">1 = Not at all.2 = Just a little.3 = Well.4 = Very well.</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>I am able to explain the concept of "probability".</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can explain what a probability of one means.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can explain what a probability of nought means.</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry>1</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can determine probability correctly.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry>I can determine relative frequency correctly.</entry>
+                <entry>1</entry>
+                <entry>2</entry>
+                <entry>3</entry>
+                <entry>4</entry>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id49961780">
+      <title>Assessment</title>
+      <para id="id49961793"><emphasis><emphasis effect="italics">Learning Outcome 5:</emphasis></emphasis>The learner will be able to collect, summarise, display and critically analyse data in order to draw conclusions and make predictions, and to interpret and determine chance variation.</para>
+      <para id="id49961814"><emphasis><emphasis effect="italics">Assessment Standard 5.10:</emphasis></emphasis> We know this when the learner counts the frequency of actual outcomes for a series of trials.</para>
+    </section>
+  </content>
+</document>

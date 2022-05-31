@@ -1,0 +1,450 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>To recognise and classify numbers in order to describe and compare them</title>
+  <metadata>
+  <md:content-id>m31001</md:content-id><md:title>To recognise and classify numbers in order to describe and compare them</md:title>
+  <md:abstract/>
+  <md:uuid>6ed1d5ff-e7d6-447b-a804-c9d09fc6e9d2</md:uuid>
+</metadata>
+
+<content>
+    <section id="id3791487">
+      <title>MATHEMATICS</title>
+      <para id="para-id3791487">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165803787130">
+      <title>Common and Decimal Fractions</title>
+      <para id="para-id1165803787130">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165804549280">
+      <title>Common Fractions</title>
+      <para id="para-id1165804549280">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165805214360">
+      <title>EDUCATOR SECTION</title>
+      <para id="para-id1165805214360">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165806419513">
+      <title>Memorandum</title>
+      <para id="id1165800904959">INTRODUCTION</para>
+      <para id="id4869423">The learning programme for grade six consists of five modules:</para>
+      <para id="id5353455">1. Number concept, Addition and Subtraction</para>
+      <para id="id1165804270943">2. Multiplication and Division</para>
+      <para id="id1165803644314">3. Fractions and Decimal fractions</para>
+      <para id="id3716155">4. Measurement and Time</para>
+      <para id="id4606909">5. Geometry; Data handling and Probability</para>
+      <list id="id1165805798601" list-type="bulleted">
+        <item>It is important that educators complete the modules in the above sequence, as the learners will require the knowledge and skills acquired through a previous module to be able to do the work in any subsequent module.</item>
+      </list>
+      <para id="id4108460">COMMON AND DECIMAL FRACTIONS (LO 1; 2 AND 5)</para>
+      <para id="id4570089">LEARNING UNIT 1 FOCUSES ON COMMON FRACTIONS</para>
+      <list id="id1165803296750" list-type="bulleted">
+        <item>This module continues the work dealt with in grade 5. Addition and subtraction of fractions are extended and calculation of a fraction of a particular amount is revised.</item>
+        <item>Check whether the learners know the correct terminology and are able to use the correct strategies for doing the above correctly. </item>
+        <item>Critical outcome 5 (Communicating effectively by using visual, symbolic and /or language skills in a variety of ways) is addressed. </item>
+        <item>It should be possible to work through the module in 3 weeks.</item>
+        <item>** Activity 17 is designed as a portfolio task. It is a very simple task, but learners should do it neatly and accurately. They must be informed in advance of how the educator will be assessing the work.</item>
+      </list>
+      <list id="id1165803630407" list-type="bulleted">
+        <item>LEARNING UNIT 2 FOCUSES ON DECIMAL FRACTIONS</item>
+        <item>This module extends the work that was done in grade 5. Learners should be able to do rounding of decimal fractions to the nearest tenth, hundredth and thousandth. Emphasise the use of the correct method (vertical) for addition and subtraction. Also spend sufficient time on the multiplication and division of decimal fractions.</item>
+        <item>As learners usually have difficulty with the latter, you could allow 3 to 4 weeks for this section of the work.</item>
+      </list>
+      <para id="id1165807506385">** Activity 19 is a task for the portfolio. The assignment is fairly simple, but learners should complete it neatly and accurately. They must be informed in advance of how the educator will be assessing the work. </para>
+      <table id="id4096728" summary="">
+        <tgroup cols="9">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry>COMMON FRACTION</entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mn>1</m:mn>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{4} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{4} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{5} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>8</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{1} }  over  { size 8{8} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>4</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mtext>20</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{4} }  over  { size 8{"20"} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>3</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>8</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{3} }  over  { size 8{8} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+              <entry>
+                <m:math>
+                  <m:semantics>
+                    <m:mrow>
+                      <m:mstyle fontsize="12pt">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>5</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>8</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mrow/>
+                    </m:mrow>
+                    <m:annotation encoding="StarMath 5.0"> size 12{ {  { size 8{5} }  over  { size 8{8} } } } {}</m:annotation>
+                  </m:semantics>
+                </m:math>
+              </entry>
+            </row>
+            <row>
+              <entry>DECIMAL FRACTION </entry>
+              <entry>0,5</entry>
+              <entry>0,25</entry>
+              <entry>0,75</entry>
+              <entry>0,8</entry>
+              <entry>0,125</entry>
+              <entry>0,2</entry>
+              <entry>0,375</entry>
+              <entry>0,625</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id1165799907730">BRAIN TEASER</para>
+      <list id="id1165806125235" list-type="bulleted">
+        <item>0,6 repeating</item>
+        <item>0,16 (6 repeating)</item>
+        <item>0,1 repeating</item>
+      </list>
+    </section>
+    <section id="id5119508">
+      <title>LEANER SECTION</title>
+      <para id="para-id5119508">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id1165807479300">
+      <title>Content</title>
+      <section id="id1165805434227">
+        <title>ACTIVITY: To recognise and classify numbers in order to describe and compare them [LO 1.3.2, LO 1.3.3]</title>
+        <para id="id7532754">1. A last bit of revision! Write the common fractions as decimal fractions and vice versa. Remember to complete the table neatly!</para>
+        <table id="id4379318" summary="">
+          <tgroup cols="9">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <tbody>
+              <row>
+                <entry>COMMON FRACTION</entry>
+                <entry/>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mn>1</m:mn>
+                              <m:mn>4</m:mn>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry>
+                  <m:math>
+                    <m:semantics>
+                      <m:mrow>
+                        <m:mstyle fontsize="12pt">
+                          <m:mrow>
+                            <m:mfrac>
+                              <m:mn>4</m:mn>
+                              <m:mn>5</m:mn>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mstyle>
+                        <m:mrow/>
+                      </m:mrow>
+                      <m:annotation encoding="StarMath 5.0"> size 12{ {  {4}  over  {5} } } {}</m:annotation>
+                    </m:semantics>
+                  </m:math>
+                </entry>
+                <entry/>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>DECIMAL FRACTION </entry>
+                <entry>0,5</entry>
+                <entry/>
+                <entry>0,75</entry>
+                <entry/>
+                <entry>0,125</entry>
+                <entry/>
+                <entry/>
+                <entry>0,625</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <section id="id1165803227016">
+          <title>BRAIN TEASER!</title>
+          <para id="id4381384"> Write the following as a decimal fraction –  remember to use <emphasis effect="bold">brief</emphasis> notation!</para>
+          <para id="id1165805251499">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>2</m:mn>
+                        <m:mn>3</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {3} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id1165803755422">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>6</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {6} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id1165804126478">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>9</m:mn>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {9} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id4713939"/>
+          <para id="id1165805471350"/>
+          <para id="id1165803455327"/>
+        </section>
+      </section>
+    </section>
+    <section id="id1165804341271">
+      <title>Assessment</title>
+      <para id="id1165803826887"><emphasis><emphasis effect="italics">Learning Outcome 1:</emphasis></emphasis>Die leerder is in staat om getalle en die verwantskappe daarvan te herken, te beskryf en voor te stel, en om tydens probleemoplossing bevoeg en met selfvertroue te tel, te skat, te bereken en te kontroleer.</para>
+      <para id="id5302815"><emphasis><emphasis effect="italics">Assessment Standard 1.3:</emphasis></emphasis> We know this when the learner recognises and represents the following numbers in order to describe and compare them:</para>
+      <para id="id1165799977920">1.3.2 decimal fractions to at least two decimal places;</para>
+      <para id="id4850740">1.3.3 common fractions, including specifically tenths, hundreds and percentages.</para>
+    </section>
+  </content>
+</document>
